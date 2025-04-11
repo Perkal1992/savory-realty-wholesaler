@@ -1,2 +1,5 @@
-streamlit  echo pandas  echo openpyxl  echo geopy  echo requests 
-streamlit  echo pandas  echo openpyxl  echo geopy  echo requests 
+streamlit
+pandas
+openpyxl
+geopy
+requests
